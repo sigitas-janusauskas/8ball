@@ -1,8 +1,8 @@
-# 8ball
+# 8ball Installation
 
 https://github.com/sigitas-janusauskas/8ball
 
-# H2 DESCRIPTION:
+# H2 DESCRIPTION: Installation
 
 Тhe program-toy "Magic Ball" will prompt the answer to any life question. The program gives only 20 answer options. Before displaying your answer greets the user
 
