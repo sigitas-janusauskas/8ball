@@ -4,7 +4,7 @@ https://github.com/sigitas-janusauskas/8ball
 
 # DESCRIPTION:
 
-Тhe program-toy "Magic Ball" will prompt the answer to any life question.
+Тhe program-toy "Magic Ball" will prompt the answer to any life question. The program gives only 20 answer options. Before displaying your answer greet the user
 
 # DETAILED DESCRIPTION
 
