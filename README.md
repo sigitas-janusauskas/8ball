@@ -4,31 +4,6 @@ https://github.com/sigitas-janusauskas/8ball
 # DESCRIPTION:
 A ruby gem for controlling your Sphero ball. Sends commands over the TTY provided by the bluetooth connection.
 
-# FEATURES/PROBLEMS:
-You need a Sphero
-SYNOPSIS:
-s = Sphero.new "/dev/tty.Sphero-PRG-RN-SPP"
-s.ping
-
-# Roll 0 degrees, speed 125
-s.roll(125, 0)
-
-# Turn 360 degrees, 30 degrees at a time
-0.step(360, 30) { |h|
-  h = 0 if h == 360
-
-  # Set the heading to h degrees
-  s.heading = h
-  sleep 1
-}
-sleep 1
-s.stop
-REQUIREMENTS:
-A Sphero ball connected to your computer
-INSTALL:
-gem install sphero
-LICENSE:
-(The MIT License)
 
 # Copyright (c) 2020 Sigitas Janusauskas
 
