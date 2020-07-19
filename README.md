@@ -15,6 +15,14 @@ https://github.com/sigitas-janusauskas/8ball
 ```
 $ ruby 8ball.rb
 ```
+### An example of the program
+```
+$ ruby 8ball.rb
+
+Привет, дорогой друг. Отвечаю на твой вопрос...
+
+Весьма сомнительно
+```
 ### Copyright (c) 2020 Sigitas Janusauskas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
