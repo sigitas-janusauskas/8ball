@@ -4,7 +4,7 @@ https://github.com/sigitas-janusauskas/8ball
 # DESCRIPTION:
 A ruby gem for controlling your Sphero ball. Sends commands over the TTY provided by the bluetooth connection.
 
-# PROGRAM LAUNCH
+# LAUNCH
 
 ruby 8ball.rb
 
