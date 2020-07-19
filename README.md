@@ -16,7 +16,7 @@ https://github.com/sigitas-janusauskas/8ball
 $ ruby 8ball.rb
 ```
 ### An example of the program
-```
+```console
 $ ruby 8ball.rb
 
 Позвольте Вас приветствовать
