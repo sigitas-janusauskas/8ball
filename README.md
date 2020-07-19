@@ -2,15 +2,15 @@
 
 https://github.com/sigitas-janusauskas/8ball
 
-## DESCRIPTION
+## Description
 
 Тhe program-toy "Magic Ball" will prompt the answer to any life question. The program gives only 20 answer options. Before displaying your answer greets the user
 
-## DETAILED DESCRIPTION
+## Detailed description
 
 [Link Wikipedia](https://en.wikipedia.org/wiki/Magic_8-Ball)
 
-## LAUNCH
+## Launch
 
 ruby 8ball.rb
 
