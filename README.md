@@ -12,7 +12,7 @@ https://github.com/sigitas-janusauskas/8ball
 
 ## Launch
 
-ruby 8ball.rb
+```ruby 8ball.rb```
 
 ## Copyright (c) 2020 Sigitas Janusauskas
 
