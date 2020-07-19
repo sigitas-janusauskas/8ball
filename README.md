@@ -1,9 +1,10 @@
-# H1 sphero
-http://github.com/tenderlove/sphero
-DESCRIPTION:
+# 8ball
+https://github.com/sigitas-janusauskas/8ball
+
+# DESCRIPTION:
 A ruby gem for controlling your Sphero ball. Sends commands over the TTY provided by the bluetooth connection.
 
-FEATURES/PROBLEMS:
+# FEATURES/PROBLEMS:
 You need a Sphero
 SYNOPSIS:
 s = Sphero.new "/dev/tty.Sphero-PRG-RN-SPP"
@@ -29,7 +30,7 @@ gem install sphero
 LICENSE:
 (The MIT License)
 
-Copyright (c) 2012 Aaron Patterson
+# Copyright (c) 2020 Sigitas Janusauskas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
