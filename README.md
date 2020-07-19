@@ -1,8 +1,10 @@
 # 8ball
+
 https://github.com/sigitas-janusauskas/8ball
 
 # DESCRIPTION:
-A ruby gem for controlling your Sphero ball. Sends commands over the TTY provided by the bluetooth connection.
+
+Тhe program-toy "Magic Ball" will prompt the answer to any life question.
 
 # DETAILED DESCRIPTION
 
