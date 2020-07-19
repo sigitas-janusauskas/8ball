@@ -6,7 +6,7 @@ A ruby gem for controlling your Sphero ball. Sends commands over the TTY provide
 
 # DETAILED DESCRIPTION
 
-[link Wikipedia](https://ru.wikipedia.org/wiki/Magic_8_ball)
+[Link Wikipedia](https://ru.wikipedia.org/wiki/Magic_8_ball)
 
 # LAUNCH
 
