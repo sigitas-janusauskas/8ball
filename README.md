@@ -8,7 +8,7 @@ https://github.com/sigitas-janusauskas/8ball
 
 # DETAILED DESCRIPTION
 
-[Link Wikipedia](https://ru.wikipedia.org/wiki/Magic_8_ball)
+[Link Wikipedia](https://en.wikipedia.org/wiki/Magic_8-Ball)
 
 # LAUNCH
 
